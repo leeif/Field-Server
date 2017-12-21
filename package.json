@@ -1,0 +1,23 @@
+{
+  "name": "fieldserver2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-views": "^2.1.0",
+    "fast-csv": "^2.4.1",
+    "kafka-node": "^2.3.0",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-ejs": "^4.1.0",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.2",
+    "request": "^2.83.0"
+  }
+}
